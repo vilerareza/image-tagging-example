@@ -1,0 +1,418 @@
+{
+    "7bd45969bb6ffc6486fd560e42ab6ed1b788f3bb8541480be893da6ca4fcbff55b7d97e3505dc715fa962a23d24b7325a044206078390c08d63ac03d9fd4f67a": {
+        "hash_id": "7bd45969bb6ffc6486fd560e42ab6ed1b788f3bb8541480be893da6ca4fcbff55b7d97e3505dc715fa962a23d24b7325a044206078390c08d63ac03d9fd4f67a",
+        "file_path": "images\\subset3.zip/10_zip.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 1.3243390521333609e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 7.825685821027939e-06
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.003509202261852047
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0029198472861342146
+            }
+        ]
+    },
+    "edd5b46a4f11606e574bc3cc2dc2239aa1781aadf26f54654e145329175c495366dc2f44d8465245b18ab5609d9856481de0dde4f79591c4488cee132904edf8": {
+        "hash_id": "edd5b46a4f11606e574bc3cc2dc2239aa1781aadf26f54654e145329175c495366dc2f44d8465245b18ab5609d9856481de0dde4f79591c4488cee132904edf8",
+        "file_path": "images\\subset3.zip/11_zip.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.00021167543870626027
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 1.4424264254131458e-06
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.005976625695315498
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.002798384758225089
+            }
+        ]
+    },
+    "d511eeacfc990b92121290695b23dbd5beba84add9c24922dd6903d89319d54f21c573c52e5cecc2b1175ae648bc63ad4c67196154bf5ef34fe748d17943047b": {
+        "hash_id": "d511eeacfc990b92121290695b23dbd5beba84add9c24922dd6903d89319d54f21c573c52e5cecc2b1175ae648bc63ad4c67196154bf5ef34fe748d17943047b",
+        "file_path": "images\\subset3.zip/12_zip.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.00010297979283890868
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 4.28915730410484e-05
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.004713121585433482
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0030373818722978924
+            }
+        ]
+    },
+    "80325ef8121072e289508dc7c6ed48d9ac7c539b8fa85581b5b97431fc5ba7cdc81e23a219eb773e6f7b9979fdb747cf70b98e850e578590ca4983e99f160da7": {
+        "hash_id": "80325ef8121072e289508dc7c6ed48d9ac7c539b8fa85581b5b97431fc5ba7cdc81e23a219eb773e6f7b9979fdb747cf70b98e850e578590ca4983e99f160da7",
+        "file_path": "subset3/not-pixel-art-real-photo/13.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0003662184386912237
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.00016837978524419928
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.007929222539213774
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.007333006214255526
+            }
+        ]
+    },
+    "ece9b0c93a13ecafa8a3dcf0e5560b4c7415c3ea42a0051df1d6a9ed69525d440ae02e1d90345197c175be6e835acec42cd89d9a56e5a2040c37c2c09c344e31": {
+        "hash_id": "ece9b0c93a13ecafa8a3dcf0e5560b4c7415c3ea42a0051df1d6a9ed69525d440ae02e1d90345197c175be6e835acec42cd89d9a56e5a2040c37c2c09c344e31",
+        "file_path": "subset3/not-pixel-art-real-photo/14.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.00040619531385499563
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 3.1033318251827424e-05
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.009845313118000238
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.002919898732258633
+            }
+        ]
+    },
+    "2158cb07c7eabf18c41a6aef7f7f28b977720c30edd8c3448acb9eee259a24e6b187cc127b4201871fb8c98eee18287231b90b6bf7c97b91989363159ef7a539": {
+        "hash_id": "2158cb07c7eabf18c41a6aef7f7f28b977720c30edd8c3448acb9eee259a24e6b187cc127b4201871fb8c98eee18287231b90b6bf7c97b91989363159ef7a539",
+        "file_path": "subset3/not-pixel-art-real-photo/15.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 3.839920610582137e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 3.892949950179414e-07
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.004812521347809305
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 5.747258912217066e-06
+            }
+        ]
+    },
+    "c25b034da41afe3958094ea24db1545203914d7ccbded3248ccdf3255ddf35485664af41821e17cf9d347d7d6825c2a64cd045fcc8b7064b91040b9afe913c14": {
+        "hash_id": "c25b034da41afe3958094ea24db1545203914d7ccbded3248ccdf3255ddf35485664af41821e17cf9d347d7d6825c2a64cd045fcc8b7064b91040b9afe913c14",
+        "file_path": "subset3/not-pixel-art-real-photo/16.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0004740324051254463
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0009708770452422355
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.009757815399339162
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.01724897917232993
+            }
+        ]
+    },
+    "ea05f94a3e97dc0b27c98cd6819d46c457654ffd9f0a6de190df90161483e5969453095bb342746f5f716e6927b332de4374d7d56d17b16c5bc09d93a90dd2ed": {
+        "hash_id": "ea05f94a3e97dc0b27c98cd6819d46c457654ffd9f0a6de190df90161483e5969453095bb342746f5f716e6927b332de4374d7d56d17b16c5bc09d93a90dd2ed",
+        "file_path": "images\\subset3.zip/9_zip.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.001235846088164183
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0025321858861833135
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.009925157242217025
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.04348309866935011
+            }
+        ]
+    },
+    "e4b93218b98425a1472cf1de271407a670bb9f267dcf3d252c9d443afa7ed8bfff232955e2eda3f3db1229376fbc4e7142b5e24d06eb8296de4c9b87920b4895": {
+        "hash_id": "e4b93218b98425a1472cf1de271407a670bb9f267dcf3d252c9d443afa7ed8bfff232955e2eda3f3db1229376fbc4e7142b5e24d06eb8296de4c9b87920b4895",
+        "file_path": "subset3/not-pixel-art/1.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 1.153768694761581e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 5.057741473413202e-06
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 1.1725651847686707e-05
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0028961441312294867
+            }
+        ]
+    },
+    "cf983f64327f68a942865f6708cd73005397be2691937a76da571dca78e277964082bb3635c419d39eeb32385fd86ce48ac12d2e971a3a1a1d077e3955c3af81": {
+        "hash_id": "cf983f64327f68a942865f6708cd73005397be2691937a76da571dca78e277964082bb3635c419d39eeb32385fd86ce48ac12d2e971a3a1a1d077e3955c3af81",
+        "file_path": "subset3/not-pixel-art/2.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 5.7632279174435475e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 3.581301116772906e-06
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0034187610377048342
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.003056017741033364
+            }
+        ]
+    },
+    "f3c045028a7e6a3cd2886ae99526c12192a68b8c73226b2296879480d4ccd26a1e1301502698cbe8c299212d831393427543545878ea9eef5302163276649ae2": {
+        "hash_id": "f3c045028a7e6a3cd2886ae99526c12192a68b8c73226b2296879480d4ccd26a1e1301502698cbe8c299212d831393427543545878ea9eef5302163276649ae2",
+        "file_path": "subset3/not-pixel-art/3.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0004933117324706915
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0005184456304541118
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.00997340460752054
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.006385954484973593
+            }
+        ]
+    },
+    "51b52816d626a97f5281db03607d40ddc55ef13f69323f3408b89a8b3ebd586d984fe5f65d618e3b8af84600a87da35a338293d302763df7e795bd408e0cf825": {
+        "hash_id": "51b52816d626a97f5281db03607d40ddc55ef13f69323f3408b89a8b3ebd586d984fe5f65d618e3b8af84600a87da35a338293d302763df7e795bd408e0cf825",
+        "file_path": "subset3/not-pixel-art/4.png",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0002326776641016215
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.00043278893256293305
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.006550248660078063
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.010513550945513954
+            }
+        ]
+    },
+    "8894f2e339c2f7abd29a71a9d3c611f0da6629f416f4fe83a1ec4184bf16797cb4d52a3cf7fc03af58fb13fd63472676b05a801ee1de29c0acfc6120900cc133": {
+        "hash_id": "8894f2e339c2f7abd29a71a9d3c611f0da6629f416f4fe83a1ec4184bf16797cb4d52a3cf7fc03af58fb13fd63472676b05a801ee1de29c0acfc6120900cc133",
+        "file_path": "subset3/not-pixel-art/5.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 3.269310184550456e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 1.5080174956438874e-05
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0029051615393281037
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.005753593172716039
+            }
+        ]
+    },
+    "1e1d28c15c3d54772d464d7df3aed436f281a27e76519336710a4b4e22e544daa9ccdef8c7d791ce5d8b188b2c58d56c71b9ce03f61f9b15a74a7b2bdbc9a9e4": {
+        "hash_id": "1e1d28c15c3d54772d464d7df3aed436f281a27e76519336710a4b4e22e544daa9ccdef8c7d791ce5d8b188b2c58d56c71b9ce03f61f9b15a74a7b2bdbc9a9e4",
+        "file_path": "subset3/not-pixel-art/6.png",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.002779663416503153
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.004495776651182504
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.025831494300237783
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.021680605930821467
+            }
+        ]
+    },
+    "4f3be2a9898e90727354a6f06c94d90488bf5be52c71b80d503d46d9638c329e855ef42d4963b370205ecb5f329451884f7b810fb39cb72a81d6a5878fddfd77": {
+        "hash_id": "4f3be2a9898e90727354a6f06c94d90488bf5be52c71b80d503d46d9638c329e855ef42d4963b370205ecb5f329451884f7b810fb39cb72a81d6a5878fddfd77",
+        "file_path": "subset3/not-pixel-art/7.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.0015124281440150877
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0003411108972050103
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.012322836880167306
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.012103324174682645
+            }
+        ]
+    },
+    "468c89f21c94a5941c0f66189a98fecd0293077c00f6e3640389da46a1f7d42c20c921169e52cd1aee8405db8ac28504f7d84fa7fa0097e39bfd46149888d740": {
+        "hash_id": "468c89f21c94a5941c0f66189a98fecd0293077c00f6e3640389da46a1f7d42c20c921169e52cd1aee8405db8ac28504f7d84fa7fa0097e39bfd46149888d740",
+        "file_path": "subset3/not-pixel-art/8.jpg",
+        "classifiers_output": [
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 8.355480574961938e-05
+            },
+            {
+                "model_type": "ovr-logistic-regression",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.0017236943705047914
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-style-tile-based",
+                "tag_prob": 0.005005847266174991
+            },
+            {
+                "model_type": "ovr-svm",
+                "tag_name": "pos-video-game-side-scrolling",
+                "tag_prob": 0.02339379930472395
+            }
+        ]
+    }
+}
